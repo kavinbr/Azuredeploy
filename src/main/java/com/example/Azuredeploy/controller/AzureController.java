@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class AzureController {
     @GetMapping("/msc2")
     public String kec() {
-        return "welcome to kec - kavin B R you are legend..";
+        return "welcome to kec - kavin you are legend..";
     }
 }
